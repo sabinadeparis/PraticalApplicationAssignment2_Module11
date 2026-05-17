@@ -1,4 +1,4 @@
-This repository contains PA 11 Link to my Jupyter notebook 
+This repository contains PA 11 Link to my Jupyter notebook https://github.com/sabinadeparis/PraticalApplicationAssignment2_Module11.git
 
 Summary of findigs: 
 Objective: Identify the key drivers of used car prices to optimize inventory acquisition and maximize sales profit.
